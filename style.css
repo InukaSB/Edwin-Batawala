@@ -147,7 +147,7 @@ html {
 
 .quote-box {
     text-align: center;
-    padding: 300px 300px 100px 300px;
+    padding: 300px 150px 150px 150px;
    }
    
 /************************ 
@@ -175,7 +175,7 @@ html {
     }
 
     .quote-box {
-        padding: 300px 100px 100px 100px;
+        padding: 100px 100px 100px 100px;
     }
 
 }
